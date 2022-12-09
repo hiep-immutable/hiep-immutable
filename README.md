@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hiep
+- 👀 I’m interested in Go, PostgreSQL
+- 🌱 I’m currently learning Typescript, Unity, C#
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: Slack
